@@ -58,4 +58,4 @@ This program demonstrates:
 - Thread synchronization using mutexes
 - Deadlock prevention techniques
 - Concurrent resource allocation
-- Simple simulation of a classic computer science problem
+- Simple simulation of a classic computer science problem  
